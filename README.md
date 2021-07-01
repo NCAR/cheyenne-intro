@@ -32,7 +32,12 @@ Tasks:
 
 1. use a different compiler to compile hello  
 
-## Run DART on Cheyenne
+## copy files to an from Cheyenne
+
+1. use `scp` to copy a file from Cheyenne
+2. For large transfers you can use Globus online.
+
+## Run DART on Cheyenne1
 
 1. checkout DART on Cheyenne
 2. compile lorenz_96 with the intel compiler
