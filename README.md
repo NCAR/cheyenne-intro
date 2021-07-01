@@ -39,3 +39,6 @@ Tasks:
 3. create a job script to run filter
 4. submit your job script
 
+## Useful commands
+
+1. make a list of useful commands on Cheyenne
